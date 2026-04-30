@@ -18,7 +18,7 @@ Permite:
 - Backend: Spring Boot (WAR desplegado en WebLogic 12)
 - Base de datos: MySQL (procedimientos almacenados)
 - Frontend principal: Angular
-- Frontend adicional: JSF (consumo SOAP)
+- Frontend adicional: JSF (WAR desplegado en WebLogic 12)
 
 ---
 
@@ -37,7 +37,7 @@ Permite:
 
 - `backend/`: backend Spring Boot (WAR + ZIP)
 - `frontend-angular/`: aplicación Angular
-- `frontend-jsf/`: cliente JSF (SOAP)
+- `frontend-jsf/`: cliente JSF (WAR + ZIP)
 - `database/`: script SQL y modelo
 - `docs/`: documentación técnica
 

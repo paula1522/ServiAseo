@@ -8,7 +8,7 @@ La solución está compuesta por:
 - Backend: Spring Boot desplegado en WebLogic 12
 - Base de datos: MySQL con procedimientos almacenados
 - Frontend principal: Angular
-- Frontend alterno: JSF (consumo SOAP)
+- Frontend alterno: JSF desplegado en WebLogic 12
 
 ---
 
