@@ -31,13 +31,7 @@ La solución está compuesta por:
 - Una factura tiene muchos detalles (1:N)  
 - Un producto aparece en muchos detalles (N:M)  
 
-### Diagrama lógico
 
-empleados (1) ----< facturas >---- (1) clientes  
-                         |  
-                    tipos_limpieza  
-                         |  
-facturas (1) ----< detalle_factura >---- (1) productos  
 
 Evidencia: `database/modelo.png`
 
